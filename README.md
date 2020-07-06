@@ -4,7 +4,7 @@ Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! �
 
 ### 💪 - If you're part of an underrepresented group in the developer community, I'd like to help you with
 
-- Being more involved with the Azure commnunity in the Netherlands.
+- Being more involved with the local developer community in the Netherlands.
 - Help with writing Call for Papers, give feedback on presentations.
 - Getting started with serverless on Azure.
 
@@ -12,13 +12,13 @@ Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! �
 
 #### 🤖 - Azure Functions Updates Twitterbot
 
-I've built the Azure Functions Updates Twitterbot ([TWitter](https://twitter.com/az_func_updates), [GitHub](https://github.com/marcduiker/az-func-updates)). It's been tweeting about new releases related to Azure dozens of Functions GitHub repositories since early 2019.
+I've built the *Azure Functions Updates Twitterbot* ([Twitter](https://twitter.com/az_func_updates), [GitHub](https://github.com/marcduiker/az-func-updates)). It's been tweeting about new releases related to dozens of Azure Functions GitHub repositories since early 2019.
 
 There are plans for extending this bot, see the [issues](https://github.com/marcduiker/az-func-updates/issues).
 
 #### 📝 - Azure Functions/Durable Functions Workshop
 
-I've made a full day workshop for Azure Functions/Durable Functions called [Building a resilient workflow using Durable Functions](https://github.com/marcduiker/building-a-resilient-workflow-with-durable-functions). 
+I've made a full day workshop for Azure Functions/Durable Functions called [*Building a resilient workflow using Durable Functions*](https://github.com/marcduiker/building-a-resilient-workflow-with-durable-functions). 
 
 I've given this workshop several times, both as in-person classroom training as well as remote. Contact [Xpirit](https://www.xpirit.com/) or myself if you want me to do this workshop for your organization.
 
@@ -28,14 +28,21 @@ I've given this workshop several times, both as in-person classroom training as 
 
 ### 👷 - Currently working on
 
-- A Twitter bot for [meetupgemist.nl/](https://meetupgemist.nl/).
+- A Twitter bot for [meetupgemist.nl](https://meetupgemist.nl).
 - A retro game called YuckyYAML.
+
+### 📞 - You can contact me to
+
+- Give a presentation about **Azure Functions** / **Durable Functions** / **Creative Coding** for your conference/meetup.
+- Do the *Building a resilient workflow using Durable Functions* workshop for your org.
+- Talk about my dreamjob, to be an Azure ☁ 🥑.
 
 ### 🧔 - About
 
 - Name: Marc Duiker
-- Pronouns: He/Him
+- Pronouns: he/him
 - Company email: mduiker@xpirit.com
 - Twitter: [@marcduiker](https://twitter.com/marcduiker)
 - Presentations: [speakerdeck.com/marcduiker](https://speakerdeck.com/marcduiker)
+- Sessionize: [sessionize.com/marcduiker](https://sessionize.com/marcduiker/)
 - LinkedIn: [linkedin.com/in/mduiker](https://www.linkedin.com/in/mduiker/)
