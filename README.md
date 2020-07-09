@@ -2,7 +2,7 @@
 
 Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
 
-![](marc_duiker_pixel_selfie.gif)
+![](https://github.com/marcduiker/marcduiker/raw/master/marc_duiker_pixel_selfie.gif)
 
 ## 💪 - If you're part of an underrepresented group in the developer community, I'd like to help you with
 
