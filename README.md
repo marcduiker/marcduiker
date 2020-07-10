@@ -33,6 +33,11 @@ I've given this workshop several times, both as in-person classroom training as 
 - A Twitter bot for [meetupgemist.nl](https://meetupgemist.nl).
 - A retro game called YuckyYAML.
 
+## ✏|🎥 - My [B|V]log
+
+- Durable Functions videos on [YouTube](https://www.youtube.com/channel/UCmoWqg6T-c8zEGm4sZdnwbA)
+- Serverless & DevCommunity writings on [blog.marcduiker.nl](https://blog.marcduiker.nl/)
+
 ## 📞 - You can contact me to
 
 - Give a presentation about **Azure Functions** / **Durable Functions** / **Creative Coding** for your conference/meetup.
