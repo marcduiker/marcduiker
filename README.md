@@ -2,7 +2,7 @@
 
 Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
 
-![](https://github.com/marcduiker/marcduiker/raw/master/marc_duiker_pixel_selfie.gif)
+<img src="marc_duiker_pixel_selfie.gif" height="150px"/>
 
 ## 💪 - If you're part of an underrepresented group in the developer community, I'd like to help you with
 
@@ -11,6 +11,12 @@ Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! �
 - Getting started with serverless on Azure.
 
 ## 🏁 - Live projects
+
+### 🎓 - Azure Functions University
+
+<img src="zappy-university-192.gif" height="150px"/>
+
+Together with Gwyneth Peña-Siguenza I've started a series of lessons for people new to serverless and C#. Every other week we do a live coding session to go through [the lessons which are all open source](https://github.com/marcduiker/azure-functions-university).
 
 ### 🤖 - Azure Functions Updates Twitterbot
 
