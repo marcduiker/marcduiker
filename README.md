@@ -1,6 +1,6 @@
 # 👋 
 
-Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
+Hi, I'm Marc Duiker and I ❤ Event-driven, DevCommunity, and Creative Coding! 😊
 
 <img src="marc_duiker_pixel_selfie.gif" height="150px"/>
 
@@ -39,7 +39,7 @@ There are plans for extending this bot, see the [issues](https://github.com/marc
 
 ## 📞 - You can contact me to
 
-- Give a presentation about **Serverless** / **Realtime** / **Creative Coding** for your conference/meetup.
+- Give a presentation about **Dapr** / **Serverless** / **Creative Coding** for your conference/meetup.
 - Work together on an Azure Functions University lesson.
 - Work on side projects that are intended to share knowledge and are welcoming to people new in tech.
 
@@ -47,8 +47,9 @@ There are plans for extending this bot, see the [issues](https://github.com/marc
 
 - Name: Marc Duiker
 - Pronouns: he/him
-- Company email: marc.duiker@ably.com
+- Company email: marc@diagrid.io
 - Twitter: [@marcduiker](https://twitter.com/marcduiker)
+- Mastodon: [@marcduiker](https://mstdn.social/@marcduiker)
 - Presentations: [speakerdeck.com/marcduiker](https://speakerdeck.com/marcduiker)
 - Sessionize: [sessionize.com/marcduiker](https://sessionize.com/marcduiker/)
 - LinkedIn: [linkedin.com/in/mduiker](https://www.linkedin.com/in/mduiker/)
