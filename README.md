@@ -2,6 +2,8 @@
 
 Hi, I'm Marc Duiker and I ❤ Event-driven, DevCommunity, and Creative Coding! 😊
 
+<img src="marcduiker-speaking_1242.jpg" height="150px"/>
+
 <img src="marc_duiker_pixel_selfie.gif" height="150px"/>
 
 [![@marcduiker's Holopin board](https://holopin.me/marcduiker)](https://holopin.io/@marcduiker)
